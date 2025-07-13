@@ -1,1 +1,5 @@
 .vscode
+main.exe
+main.o
+output.tga
+tgaimage.o
